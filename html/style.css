@@ -1,0 +1,23 @@
+.container h1{
+    font-size: 50px;
+    font-weight:250px;
+    margin: 33px 520px;
+    color:gray;
+}
+.form-content {
+    color:black;
+    font-size: 22px;
+    margin: 15px 346px;
+    margin-left: 160px;
+    
+}
+.form-content input{
+    margin:15px;
+    padding: 4px 15px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-left: 30px;
+}
+
+ 
+
